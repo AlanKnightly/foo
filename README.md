@@ -1,0 +1,2 @@
+# foo
+npm package
